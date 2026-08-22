@@ -16,7 +16,7 @@ A través del análisis de microdatos históricos de rendimiento, asistencia acu
 | **Matrícula Oficial (Centro de Estudios Mineduc)** | 2025 | `ID_ESTUDIANTE`, `RBD`, `GEN_ALU`, `EDAD_ALU`, `ASISTENCIA`, `IND_VULNERAB` | Registros sociodemográficos, dependencia del establecimiento, tipo de enseñanza y asistencia anual acumulada (~3.350.000 registros)
 | **Encuesta Nacional de Deserción (ENDDEIE)** | 2023 | `COD_FACTOR_EXT`, `COD_REG_RBD`, `COD_COM_RBD`, `COD_DEPE` | Matriz contextual para homologar variables de entorno socioeducativo y factores externos de vulnerabilidad (~3.450 registros)
 
-*Volumen Total Consolidado:* **6.473.950 registros** a nivel nacional
+Volumen Total Consolidado: **6.473.950 registros** a nivel nacional
 
 ---
 
