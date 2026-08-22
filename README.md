@@ -8,7 +8,7 @@ A través del análisis de microdatos históricos de rendimiento, asistencia acu
 
 ---
 
-## 📊 Tabla de Metadata (Fuentes de Datos Nacionales)
+##  Tabla de Metadata (Fuentes de Datos Nacionales)
 
 | Fuente / Portal | Versión / Período | Variables Clave | Descripción y Rol en el Proyecto |
 | :--- | :--- | :--- | :--- |
@@ -20,7 +20,7 @@ Volumen Total Consolidado: **6.473.950 registros** a nivel nacional
 
 ---
 
-## 🛠️ Estructura del Repositorio
+##  Estructura del Repositorio
 
 ```text
 proyecto/
