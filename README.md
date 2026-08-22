@@ -1,6 +1,6 @@
 # Detección Temprana de Patrones de Riesgo Académico y Ausentismo Crítico en el Sistema Escolar Chileno
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este proyecto aborda la problemática de la deserción, la reprobación y el ausentismo crítico en la educación regular chilena. En lugar de operar mediante un esquema reactivo, la propuesta transforma la gestión escolar hacia un modelo preventivo de alerta temprana. 
 
