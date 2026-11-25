@@ -1,0 +1,11 @@
+# Datos completos (pesan gigas): NO subir. Las muestras de data/sample/ SÍ se versionan.
+data/raw/
+*.rar
+*.zip
+*.csv
+!data/sample/*.csv.gz
+# Intermedios pesados que se regeneran con los cuadernos
+data/processed/*.pkl
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
