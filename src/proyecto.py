@@ -33,7 +33,7 @@ ANIOS_OBJETIVO = (2024, 2025)                           # t; el rezago t-1 sale 
 
 # ---------------------------------------------------- definicion del objetivo (CONFIGURABLE)
 # Verificar estos codigos con value_counts() de SIT_FIN (cuaderno 02, seccion 2).
-COLUMNA_SIT = "SIT_FIN"
+COLUMNA_SIT = "SIT_FIN_R"
 CODIGOS_POSITIVOS = {"R", "Y"}      # R = reprobado, Y = retirado
 CODIGOS_NEGATIVOS = {"P"}           # P = promovido
 # Cualquier otro codigo (T = trasladado, vacio, etc.) NO es fracaso ni exito: se excluye y se cuenta.
