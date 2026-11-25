@@ -1,0 +1,30 @@
+[
+  {
+    "anio": 2024,
+    "rend_unico": 3328885,
+    "objetivo_valido": 3325695,
+    "sin_matricula": 73612,
+    "sin_historial": 337545,
+    "tasa_sin_historial": 0.08208387345075607,
+    "n": 2914538,
+    "positivos": 104358,
+    "tasa": 0.03580601796922874,
+    "notas_prev_faltantes": 138298,
+    "asistencia_prev_faltante": 0,
+    "columnas": 13
+  },
+  {
+    "anio": 2025,
+    "rend_unico": 3304098,
+    "objetivo_valido": 3297837,
+    "sin_matricula": 69382,
+    "sin_historial": 329652,
+    "tasa_sin_historial": 0.08120077848434448,
+    "n": 2898803,
+    "positivos": 99798,
+    "tasa": 0.03442731361875919,
+    "notas_prev_faltantes": 134267,
+    "asistencia_prev_faltante": 0,
+    "columnas": 13
+  }
+]

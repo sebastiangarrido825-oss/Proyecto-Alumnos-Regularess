@@ -1,0 +1,74 @@
+[
+  {
+    "anio": 2023,
+    "filas": 3584330,
+    "unicos": 3356854,
+    "sobrantes": 227476,
+    "mrun_duplicados": 206851,
+    "conflicto_situacion": 0,
+    "discordantes": 109,
+    "ceros": 473025,
+    "notas_faltantes": 473025,
+    "situaciones": {
+      "P": 3182092,
+      "T": 227358,
+      "Y": 91425,
+      "R": 81620,
+      " ": 1835
+    },
+    "asistencia_faltante": 0,
+    "matricula": {
+      "filas": 3631065,
+      "unicos": 3631065,
+      "conflictos": 0
+    }
+  },
+  {
+    "anio": 2024,
+    "filas": 3568930,
+    "unicos": 3329094,
+    "sobrantes": 239836,
+    "mrun_duplicados": 216860,
+    "conflicto_situacion": 0,
+    "discordantes": 209,
+    "ceros": 471868,
+    "notas_faltantes": 471868,
+    "situaciones": {
+      "P": 3165348,
+      "T": 239619,
+      "Y": 83535,
+      "R": 77238,
+      " ": 3190
+    },
+    "asistencia_faltante": 0,
+    "matricula": {
+      "filas": 3582943,
+      "unicos": 3582943,
+      "conflictos": 0
+    }
+  },
+  {
+    "anio": 2025,
+    "filas": 3540980,
+    "unicos": 3304338,
+    "sobrantes": 236642,
+    "mrun_duplicados": 212661,
+    "conflicto_situacion": 0,
+    "discordantes": 240,
+    "ceros": 457760,
+    "notas_faltantes": 457760,
+    "situaciones": {
+      "P": 3146175,
+      "T": 236402,
+      "Y": 76554,
+      "R": 75585,
+      " ": 6264
+    },
+    "asistencia_faltante": 0,
+    "matricula": {
+      "filas": 3541840,
+      "unicos": 3541840,
+      "conflictos": 0
+    }
+  }
+]

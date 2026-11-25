@@ -1,0 +1,12 @@
+ anio        tipo   filas
+ 2023        Matr 3631065
+ 2023 Rendimiento 3584330
+ 2024        Matr 3582943
+ 2024 Rendimiento 3568930
+ 2025        Matr 3541840
+ 2025 Rendimiento 3540980
+Auditado 2023 {'anio': 2023, 'filas': 3584330, 'unicos': 3356854, 'sobrantes': 227476, 'mrun_duplicados': 206851, 'conflicto_situacion': 0, 'discordantes': 109, 'ceros': 473025, 'notas_faltantes': 473025, 'situaciones': {'P': 3182092, 'T': 227358, 'Y': 91425, 'R': 81620, ' ': 1835}, 'asistencia_faltante': 0, 'matricula': {'filas': 3631065, 'unicos': 3631065, 'conflictos': 0}}
+Auditado 2024 {'anio': 2024, 'filas': 3568930, 'unicos': 3329094, 'sobrantes': 239836, 'mrun_duplicados': 216860, 'conflicto_situacion': 0, 'discordantes': 209, 'ceros': 471868, 'notas_faltantes': 471868, 'situaciones': {'P': 3165348, 'T': 239619, 'Y': 83535, 'R': 77238, ' ': 3190}, 'asistencia_faltante': 0, 'matricula': {'filas': 3582943, 'unicos': 3582943, 'conflictos': 0}}
+{'anio': 2024, 'rend_unico': 3328885, 'objetivo_valido': 3325695, 'sin_matricula': 73612, 'sin_historial': 337545, 'tasa_sin_historial': 0.08208387345075607, 'n': 2914538, 'positivos': 104358, 'tasa': 0.03580601796922874, 'notas_prev_faltantes': 138298, 'asistencia_prev_faltante': 0, 'columnas': 13}
+Auditado 2025 {'anio': 2025, 'filas': 3540980, 'unicos': 3304338, 'sobrantes': 236642, 'mrun_duplicados': 212661, 'conflicto_situacion': 0, 'discordantes': 240, 'ceros': 457760, 'notas_faltantes': 457760, 'situaciones': {'P': 3146175, 'T': 236402, 'Y': 76554, 'R': 75585, ' ': 6264}, 'asistencia_faltante': 0, 'matricula': {'filas': 3541840, 'unicos': 3541840, 'conflictos': 0}}
+{'anio': 2025, 'rend_unico': 3304098, 'objetivo_valido': 3297837, 'sin_matricula': 69382, 'sin_historial': 329652, 'tasa_sin_historial': 0.08120077848434448, 'n': 2898803, 'positivos': 99798, 'tasa': 0.03442731361875919, 'notas_prev_faltantes': 134267, 'asistencia_prev_faltante': 0, 'columnas': 13}

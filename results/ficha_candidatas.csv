@@ -1,0 +1,11 @@
+variable,medida,valor,n,faltantes_pct,segmentos_apoyan,segmentos_evaluados,decision,motivo
+prom_notas_norm_prev,ROC-AUC univ.,0.1592554245872242,95194,4.745108830284594,4,4,Entra,Información previa o de matrícula
+prom_prev_faltante,ROC-AUC univ.,0.5565263629319477,100000,0.0,1,5,Entra,Disponible antes del desenlace; indicador complementario
+asistencia_prev,ROC-AUC univ.,0.33261666299379405,100000,0.0,4,5,Entra,Información previa o de matrícula
+repro_prev,ROC-AUC univ.,0.5917904187785684,100000,0.0,4,5,Entra,Información previa o de matrícula
+retiro_prev,ROC-AUC univ.,0.5340532163701118,100000,0.0,2,5,Entra,Información previa o de matrícula
+COD_ENSE,V Cramer,0.32250121751041383,100000,0.0,2,2,Entra,Información previa o de matrícula
+asistencia_prev_faltante,ROC-AUC univ.,0.5,100000,0.0,0,0,Fuera,Constante en entrenamiento (sin faltantes); se excluye
+riesgo_academico_prev,ROC-AUC univ.,0.5678167676495148,95194,4.745108830284594,2,4,Fuera,Derivada de nota; excluida para evitar redundancia
+GEN_ALU,V Cramer,0.040635486453943416,100000,0.0,3,5,Fuera,"Solo auditoría demográfica, no predictor"
+COD_ENSE2,V Cramer,0.3180266340192844,100000,0.0,2,2,Fuera,Derivada del tipo de enseñanza; solo segmentación
